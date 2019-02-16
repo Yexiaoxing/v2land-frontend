@@ -18,7 +18,9 @@ dist
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
 
+# IDE or Editor config
 .idea/*
+.vscode
 
 yarn-error.log
 
